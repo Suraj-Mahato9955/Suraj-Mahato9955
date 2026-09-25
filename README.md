@@ -1,81 +1,69 @@
-# Hi, I'm Suraj Mahato 👋
+# 👋 Hi, I'm Suraj Mahato
 
-### B.Tech CSE Student
+### 💻 B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
 
-I’m a Computer Science student passionate about building practical applications and improving my problem-solving skills through **Data Structures & Algorithms** and **Full-Stack Development**.
-
-* 💻 Currently learning **C++, DSA & Full-Stack Development**
-* 🚀 Building projects with **React, Node.js, Express & MongoDB**
-* 🧩 Practicing problem solving on **LeetCode**
-* 📚 Continuously learning and improving my development skills
-
----
-
-## 🚀 Featured Projects
-
-| Project                                                                            | Description                                                                                                                   | Technologies                        |
-| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 🍱 **[SHAREbite](https://github.com/Suraj-Mahato9955/SHAREbitee)**                 | Food donation and management platform focused on reducing food waste and connecting donors with people/organizations in need. | React • Node.js • Express • MongoDB |
-| 🌍 **[CityPulse](https://github.com/Suraj-Mahato9955/CityPulse)**                  | Full-stack application for monitoring city air quality, AQI, pollution levels, weather and forecasts.                         | React • Node.js • Express • MongoDB |
-| 🛡️ **[CyberDefence](https://github.com/Suraj-Mahato9955/CyberDefence)**           | Cybersecurity-focused project built to explore security concepts and create awareness-oriented features.                      | HTML • CSS • JavaScript             |
-| ✊ **[Rock Paper Scissors](https://github.com/Suraj-Mahato9955/Rock-Paper-Sesior)** | Interactive multi-round game with score tracking, history, player name and reset functionality.                               | HTML • CSS • JavaScript             |
+I'm a Computer Science student interested in **web development, AI, and problem solving**. I enjoy building practical projects that solve real-world problems and continuously improving my development skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-`C++` `Java` `JavaScript` `SQL`
-
-**Frontend**
-
-`HTML` `CSS` `React.js`
-
-**Backend & Database**
-
-`Node.js` `Express.js` `MongoDB`
-
-**Tools**
-
-`Git` `GitHub` `VS Code`
+**Languages:** C++, JavaScript, HTML, CSS
+**Frontend:** React, Vite
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Tools:** Git, GitHub, VS Code
 
 ---
 
-## 🧠 Problem Solving
+## 🚀 Featured Projects
 
-I regularly practice programming problems to strengthen my understanding of:
+### 🤖 FormBuddy AI
+
+AI-powered application designed to make filling and understanding forms easier.
+
+**Tech:** React • JavaScript • AI • jsPDF
+
+### 🍱 SHAREbite
+
+Food management and donation platform connecting donors, NGOs, and volunteers to help reduce food waste.
+
+**Tech:** React • Node.js • Express.js • MongoDB • JWT
+
+### 🌍 CityPulse
+
+Smart city platform for monitoring **AQI, weather, and pollution**, with an AI chatbot to help users understand air quality.
+
+**Tech:** React • Node.js • Express.js • MongoDB
+
+### 🛡️ CyberDefence
+
+A cybersecurity awareness platform focused on helping users understand common cyber threats and digital safety.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+## 🧠 Currently Working On
 
 * Data Structures & Algorithms
-* Arrays & Strings
-* Searching & Sorting
-* Loops & Recursion
-* Problem Solving & Optimization
-
-### Coding Profile
-
-🔗 **[LeetCode](https://leetcode.com/u/Suraj433/)**
+* Full-Stack Web Development
+* AI-powered applications
+* Building real-world projects
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suraj-Mahato9955\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Mahato9955\&layout=compact\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suraj-Mahato9955\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 🤝 Connect With Me
 
-**LinkedIn:** [Suraj Mahato](https://www.linkedin.com/in/suraj-mahato9603)
-
-**GitHub:** [Suraj-Mahato9955](https://github.com/Suraj-Mahato9955)
-
-**LeetCode:** [Suraj433](https://leetcode.com/u/Suraj433/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/suraj-mahato9603/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Suraj-Mahato9955)
 
 ---
 
-### ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and follow my development journey.
+⭐ *Building projects, solving problems, and learning every day.*
