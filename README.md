@@ -18,12 +18,12 @@ I'm a Computer Science student interested in **Web Development, AI, and Problem 
 
 ## 🚀 Featured Projects
 
-| Project              | About                                                                                               |
-| :------------------- | :-------------------------------------------------------------------------------------------------- |
-| 🤖 **FormBuddy AI**  | AI-powered application that helps users understand and complete forms more easily.                  |
-| 🍱 **SHAREbite**     | Food donation and management platform connecting donors, NGOs, and volunteers to reduce food waste. |
-| 🌍 **CityPulse**     | Smart city platform providing AQI, weather, pollution information, and AI-based AQI explanations.   |
-| 🛡️ **CyberDefence** | Cybersecurity awareness platform focused on common cyber threats and digital safety.                |
+| Project                                                                  | About                                                                                               |
+| :----------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+| 🤖 **[FormBuddy AI](https://github.com/Suraj-Mahato9955/FormBuddy)**     | AI-powered application that helps users understand and complete forms more easily.                  |
+| 🍱 **[SHAREbite](https://github.com/Suraj-Mahato9955/SHAREbitee)**       | Food donation and management platform connecting donors, NGOs, and volunteers to reduce food waste. |
+| 🌍 **[CityPulse](https://github.com/Suraj-Mahato9955/CityPulse)**        | Smart city platform providing AQI, weather, pollution information, and AI-based AQI explanations.   |
+| 🛡️ **[CyberDefence](https://github.com/Suraj-Mahato9955/CyberDefence)** | Cybersecurity awareness platform focused on common cyber threats and digital safety.                |
 
 ---
 
