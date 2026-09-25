@@ -2,54 +2,37 @@
 
 ### 💻 B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
 
-I'm a Computer Science student interested in **web development, AI, and problem solving**. I enjoy building practical projects that solve real-world problems and continuously improving my development skills.
+I'm a Computer Science student interested in **Web Development, AI, and Problem Solving**. I enjoy building practical applications and learning new technologies through real-world projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++, JavaScript, HTML, CSS
-**Frontend:** React, Vite
-**Backend:** Node.js, Express.js
+**Languages:** C++ • JavaScript • HTML • CSS
+**Frontend:** React • Vite
+**Backend:** Node.js • Express.js
 **Database:** MongoDB
-**Tools:** Git, GitHub, VS Code
+**Tools:** Git • GitHub • VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 FormBuddy AI
-
-AI-powered application designed to make filling and understanding forms easier.
-
-**Tech:** React • JavaScript • AI • jsPDF
-
-### 🍱 SHAREbite
-
-Food management and donation platform connecting donors, NGOs, and volunteers to help reduce food waste.
-
-**Tech:** React • Node.js • Express.js • MongoDB • JWT
-
-### 🌍 CityPulse
-
-Smart city platform for monitoring **AQI, weather, and pollution**, with an AI chatbot to help users understand air quality.
-
-**Tech:** React • Node.js • Express.js • MongoDB
-
-### 🛡️ CyberDefence
-
-A cybersecurity awareness platform focused on helping users understand common cyber threats and digital safety.
-
-**Tech:** HTML • CSS • JavaScript
+| Project              | About                                                                                               |
+| :------------------- | :-------------------------------------------------------------------------------------------------- |
+| 🤖 **FormBuddy AI**  | AI-powered application that helps users understand and complete forms more easily.                  |
+| 🍱 **SHAREbite**     | Food donation and management platform connecting donors, NGOs, and volunteers to reduce food waste. |
+| 🌍 **CityPulse**     | Smart city platform providing AQI, weather, pollution information, and AI-based AQI explanations.   |
+| 🛡️ **CyberDefence** | Cybersecurity awareness platform focused on common cyber threats and digital safety.                |
 
 ---
 
-## 🧠 Currently Working On
+## 🧠 Currently Learning
 
 * Data Structures & Algorithms
-* Full-Stack Web Development
-* AI-powered applications
-* Building real-world projects
+* Full-Stack Development
+* AI & AI-powered Applications
+* Problem Solving
 
 ---
 
@@ -66,4 +49,4 @@ A cybersecurity awareness platform focused on helping users understand common cy
 
 ---
 
-⭐ *Building projects, solving problems, and learning every day.*
+⭐ **Building • Learning • Improving**
